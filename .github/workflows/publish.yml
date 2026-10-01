@@ -1,0 +1,40 @@
+name: 크리스마스 카운트다운 자동 게시
+
+on:
+  schedule:
+    - cron: "50 0 * * *"   # 매일 09:50 KST 실행 → GitHub 대기열 지연(보통 5~15분)을 감안해 10시 전후 게시
+  workflow_dispatch:
+    inputs:
+      post_date:
+        description: "게시할 날짜 (YYYY-MM-DD, 비우면 오늘)"
+        required: false
+      dry_run:
+        description: "1 = 실제 게시 없이 점검만"
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: 인스타그램 게시
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/posts
+          POST_DATE: ${{ github.event.inputs.post_date }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python publish.py
+      - name: 게시 기록 저장
+        run: |
+          git config user.name "countdown-bot"
+          git config user.email "countdown-bot@users.noreply.github.com"
+          git add posts/*/.posted 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "게시 완료 기록" && git push)
