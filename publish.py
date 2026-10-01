@@ -50,6 +50,10 @@ def main():
     day = os.environ.get("POST_DATE") or dt.datetime.now(KST).date().isoformat()
     dry = os.environ.get("DRY_RUN") == "1"
 
+    if dry:  # 점검 모드: 폴더가 없어도 토큰·계정 연결부터 확인
+        me = call("GET", "me", fields="user_id,username", access_token=token)
+        print(f"✅ 토큰 정상 · 연결된 계정: @{me['username']} (id {me['user_id']})")
+
     folder = Path("posts") / day
     if not folder.exists():
         print(f"[{day}] 게시할 폴더가 없습니다. 건너뜀.")
