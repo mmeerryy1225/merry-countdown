@@ -1,0 +1,50 @@
+{
+  "dday": 74,
+  "date": "10.12",
+  "weekday": "월",
+  "cover": "월요병인데<br>크리스마스까지 <em>74일</em>이라는 사실<br>하나로 버틴다.",
+  "cover_note": "버티는 중… 🫠",
+  "scene_title": "하루씩 지우는 중",
+  "scene_note": "X 치는 맛으로<br>산다 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 10,
+    "cross": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "fill": [
+      12
+    ],
+    "labels": {
+      "12": "월요병😵",
+      "31": "핼러윈🎃"
+    }
+  },
+  "bgm": {
+    "title": "It's the Most Wonderful Time of the Year",
+    "artist": "Andy Williams",
+    "year": 1963,
+    "reason": "월요일 아침이라도<br><em>제일 멋진 계절</em>이 오고 있으니까."
+  },
+  "mission": {
+    "todo": [
+      "이번 주 기대되는 일 하나 만들기",
+      "달력에 X 치면서 버티기"
+    ],
+    "cta": "월요병 같이 이겨낼 친구,<br><em>태그하고 서로 응원</em> 👇"
+  },
+  "merryhood_line": "이번 주 버틴 보상,<br><em>주말 파티</em>로 받기 🎁",
+  "caption": "D-74 · 월요병 vs 크리스마스 🗓\n하루씩 X 치면서 버티는 중. 이번 주도 화이팅!\n같이 버틸 친구 태그 👇",
+  "tags": "#D74 #월요병"
+}

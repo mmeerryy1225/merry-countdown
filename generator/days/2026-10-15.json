@@ -1,0 +1,40 @@
+{
+  "dday": 71,
+  "date": "10.15",
+  "weekday": "목",
+  "cover": "<em>니트</em>를 처음 꺼낸 날.<br>작년 니트는 보풀이 한가득.",
+  "cover_note": "작년의 나 뭐 했니 🧶",
+  "scene_title": "니트 시즌 개막",
+  "scene_note": "결국 새 니트<br>주문했다 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🧶",
+        "bg": "#ffd6e5",
+        "caption": "작년 니트 (보풀 MAX)"
+      },
+      {
+        "emoji": "🛒",
+        "bg": "#d6f5b0",
+        "caption": "새 니트 장바구니"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Santa Baby",
+    "artist": "Eartha Kitt",
+    "year": 1953,
+    "reason": "산타한테 슬쩍<br><em>새 니트</em> 부탁해 보는 노래."
+  },
+  "mission": {
+    "todo": [
+      "보풀 제거기 장바구니에 담기",
+      "올해 크리스마스 니트 미리 고르기"
+    ],
+    "cta": "보풀 니트 같이 입는 친구,<br><em>태그하고 공감</em> 👇"
+  },
+  "merryhood_line": "새 니트 입고<br><em>연말 파티</em> 사진 찍으러 와요 📸",
+  "caption": "D-71 · 니트 시즌 개막 🧶\n작년 니트 꺼냈더니 보풀이… 올해 크리스마스 니트는 뭐 입을 거예요?\n보풀 니트 동지 태그 👇",
+  "tags": "#D71 #니트"
+}

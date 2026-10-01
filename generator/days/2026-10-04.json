@@ -1,0 +1,70 @@
+{
+  "dday": 82,
+  "date": "10.04",
+  "weekday": "일",
+  "cover": "사진첩을 넘기다 깨달았다.<br>올해 친구들이랑 찍은 사진이<br><em>거의 없다.</em>",
+  "cover_note": "음식 사진만 300장 🍜",
+  "scene_title": "올해 내 사진첩",
+  "scene_note": "친구 사진은<br>단 한 장 ✍️",
+  "scene": {
+    "type": "photo",
+    "style": "album",
+    "title": "2026 사진첩",
+    "photos": [
+      {
+        "emoji": "🍜",
+        "bg": "#ffe2c4"
+      },
+      {
+        "emoji": "☕",
+        "bg": "#e8dccb"
+      },
+      {
+        "emoji": "🍰",
+        "bg": "#ffd6e5"
+      },
+      {
+        "emoji": "🌅",
+        "bg": "#ffd9a8"
+      },
+      {
+        "emoji": "👯",
+        "bg": "#d6f5b0",
+        "highlight": true,
+        "caption": "친구랑 (1장)"
+      },
+      {
+        "emoji": "🐈",
+        "bg": "#dfe7ee"
+      },
+      {
+        "emoji": "🍣",
+        "bg": "#ffe0d6"
+      },
+      {
+        "emoji": "☕",
+        "bg": "#e8dccb"
+      },
+      {
+        "emoji": "🍜",
+        "bg": "#ffe2c4"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "The Christmas Song",
+    "artist": "Nat King Cole",
+    "year": 1946,
+    "reason": "따뜻한 노래 들으면서<br><em>보고 싶은 얼굴</em> 떠올려 보기."
+  },
+  "mission": {
+    "todo": [
+      "오랜만인 친구한테 안부 DM 보내기",
+      "같이 사진 찍을 날 정하기"
+    ],
+    "cta": "올해 사진 같이 못 찍은 친구,<br><em>여기 태그해요</em> 👇"
+  },
+  "merryhood_line": "올해 남은 사진은<br><em>다 같이</em> 찍어요 📸",
+  "caption": "D-82 · 사진첩 정리하다가 📸\n음식 사진은 300장인데 친구랑 찍은 건 1장…\n올해 사진 같이 못 찍은 친구 태그 👇",
+  "tags": "#D82 #사진첩"
+}

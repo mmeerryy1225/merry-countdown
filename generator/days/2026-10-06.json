@@ -1,0 +1,53 @@
+{
+  "dday": 80,
+  "date": "10.06",
+  "weekday": "화",
+  "cover": "1월에 써 둔<br>'<em>올해 목표</em>' 메모를<br>다시 열어 봤다.",
+  "cover_note": "...조용히 닫았다 🫠",
+  "scene_title": "1월의 나에게",
+  "scene_note": "마지막 하나는<br>지킬 수 있다 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "memo",
+    "title": "2026 올해 목표",
+    "sub": "1월 1일 작성",
+    "items": [
+      {
+        "text": "운동 주 3회 💪",
+        "strike": true
+      },
+      {
+        "text": "영어 공부 매일 30분",
+        "strike": true
+      },
+      {
+        "text": "한 달에 책 2권 📚",
+        "strike": true
+      },
+      {
+        "text": "저축 열심히 하기",
+        "right": "...?"
+      },
+      {
+        "text": "연말엔 다 같이 파티하기 🎉",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Step Into Christmas",
+    "artist": "Elton John",
+    "year": 1973,
+    "reason": "목표는 몰라도<br>크리스마스엔 <em>한 발짝씩 다가가는 중.</em>"
+  },
+  "mission": {
+    "todo": [
+      "올해 목표 하나만 다시 시작하기",
+      "나머지는 내년의 나에게 넘기기"
+    ],
+    "cta": "목표 메모 아직 안 열어 본 친구,<br><em>태그해서 같이 반성해요</em> 👇"
+  },
+  "merryhood_line": "목표 하나는 꼭 지키자,<br><em>연말 파티</em>는 여기서 🎉",
+  "caption": "D-80 · 1월의 내가 쓴 목표 📝\n하나씩 지워지는 중… 마지막 하나는 꼭 지켜요.\n같이 반성할 친구 태그 👇",
+  "tags": "#D80 #올해목표"
+}

@@ -1,0 +1,54 @@
+{
+  "dday": 78,
+  "date": "10.08",
+  "weekday": "목",
+  "cover": "남은 <em>연차</em>를 세어 봤다.<br>생각보다 많고,<br>쓸 날은 생각보다 없다.",
+  "cover_note": "다 쓰고 갈 수 있을까 🤔",
+  "scene_title": "내 연차 현황",
+  "scene_note": "일단 크리스마스부터<br>찜해 둠 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "memo",
+    "title": "남은 연차 계산",
+    "sub": "10월 8일 기준",
+    "items": [
+      {
+        "text": "남은 연차",
+        "right": "7일"
+      },
+      {
+        "text": "10월에 쓸 날",
+        "right": "0일"
+      },
+      {
+        "text": "11월에 쓸 날",
+        "right": "글쎄…"
+      },
+      {
+        "text": "12월 마감 시즌",
+        "right": "😇"
+      },
+      {
+        "text": "크리스마스 연차 찜 🎄",
+        "right": "1일 ✅",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Driving Home for Christmas",
+    "artist": "Chris Rea",
+    "year": 1986,
+    "reason": "연차 붙여서<br><em>어디론가 떠나는 상상</em> 중."
+  },
+  "mission": {
+    "todo": [
+      "남은 연차 크리스마스 근처에 찜하기",
+      "같이 쉴 친구랑 날짜 맞추기"
+    ],
+    "cta": "연차 아직 못 쓴 친구,<br><em>태그해서 같이 맞춰요</em> 👇"
+  },
+  "merryhood_line": "연차 쓴 날엔<br><em>파티룸</em>에서 하루 종일 🎉",
+  "caption": "D-78 · 남은 연차 계산 중 🗓\n일단 크리스마스 근처부터 찜해 두기로.\n연차 같이 맞출 친구 태그 👇",
+  "tags": "#D78 #연차"
+}

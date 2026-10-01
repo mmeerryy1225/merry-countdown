@@ -1,0 +1,39 @@
+{
+  "dday": 84,
+  "date": "10.02",
+  "weekday": "금",
+  "cover": "크리스마스까지 <em>84일</em> 남았다는 걸<br>방금 알았다.",
+  "cover_note": "올해 벌써 이렇게 됐다고? 😮",
+  "scene_title": "벌써 여기까지 옴",
+  "scene_note": "84일… 생각보다<br>금방이다 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [
+      25
+    ],
+    "labels": {
+      "25": "크리스마스🎄"
+    },
+    "fill": [
+      24
+    ]
+  },
+  "bgm": {
+    "title": "It's Beginning to Look a Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "year": 2011,
+    "reason": "거리엔 아직 단풍인데,<br>마음은 벌써 <em>크리스마스 같아지는 중.</em>"
+  },
+  "mission": {
+    "todo": [
+      "크리스마스 카운트다운 시작하기",
+      "같이 셀 친구 한 명 찾기"
+    ],
+    "cta": "오늘부터 매일 하나씩,<br><em>D-DAY까지 같이 세요</em> 👇"
+  },
+  "merryhood_line": "84일 뒤 크리스마스,<br><em>어디서</em> 보낼지 미리 찜! 🎄",
+  "caption": "크리스마스까지 D-84 🎄\n오늘부터 매일 하나씩, 연말 공감 카드로 같이 카운트다운해요.\n같이 셀 친구 태그 👇",
+  "tags": "#D84"
+}
