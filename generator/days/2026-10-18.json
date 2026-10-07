@@ -1,0 +1,40 @@
+{
+  "dday": 68,
+  "date": "10.18",
+  "weekday": "일",
+  "cover": "생활용품점에<br><em>크리스마스 코너</em>가 생겼다.<br>10월인데?",
+  "cover_note": "근데 벌써 설렘 🎄",
+  "scene_title": "10월의 트리 코너",
+  "scene_note": "구경만 하려다<br>오너먼트 샀다 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🎄",
+        "bg": "#d6f5b0",
+        "caption": "벌써 트리 코너"
+      },
+      {
+        "emoji": "✨",
+        "bg": "#ffe9a0",
+        "caption": "오너먼트 1개 득템"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Rockin' Around the Christmas Tree",
+    "artist": "Brenda Lee",
+    "year": 1958,
+    "reason": "트리 코너 앞에서<br><em>괜히 신나는</em> 그 기분."
+  },
+  "mission": {
+    "todo": [
+      "올해 트리 장식 하나 미리 사 두기",
+      "작년 장식 어디 뒀는지 찾아 보기"
+    ],
+    "cta": "벌써 트리 장식 산 친구,<br><em>자수하세요</em> 👇"
+  },
+  "merryhood_line": "트리 앞에서 찍는 사진,<br><em>연말</em>에 같이 찍어요 📸",
+  "caption": "D-68 · 10월인데 벌써 크리스마스 코너 🎄\n구경만 하려다가 오너먼트 하나 사 버렸어요. 여러분은 트리 언제 꺼내요?\n벌써 장식 산 친구 태그 👇",
+  "tags": "#D68 #트리"
+}

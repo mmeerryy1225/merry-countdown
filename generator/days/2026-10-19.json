@@ -1,0 +1,55 @@
+{
+  "dday": 67,
+  "date": "10.19",
+  "weekday": "월",
+  "cover": "친구 생일 선물 고르다가<br><em>연말 선물</em>까지<br>고민하게 됐다.",
+  "cover_note": "장바구니 폭발 직전 🎁",
+  "scene_title": "선물 장바구니",
+  "scene_note": "생일 선물 사러<br>왔을 뿐인데 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "cart",
+    "title": "장바구니 (5)",
+    "items": [
+      {
+        "text": "지은 생일 선물 🎂",
+        "right": "결제 예정",
+        "checked": true
+      },
+      {
+        "text": "향초 세트 (연말용)",
+        "right": "24,900원",
+        "checked": true
+      },
+      {
+        "text": "엄마 목도리 🧣",
+        "right": "32,000원"
+      },
+      {
+        "text": "팀원 간식 박스",
+        "right": "고민 중…"
+      },
+      {
+        "text": "나한테 주는 선물 🎁",
+        "right": "일단 담음",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson",
+    "year": 2013,
+    "reason": "선물보다 <em>같이 있는 사람</em>이<br>먼저 생각나는 노래."
+  },
+  "mission": {
+    "todo": [
+      "선물 줄 사람 리스트 미리 적어 두기",
+      "생일 선물부터 먼저 결제하기"
+    ],
+    "cta": "올해 선물 꼭 주고 싶은 친구,<br><em>태그해 주세요</em> 👇"
+  },
+  "merryhood_line": "선물 교환은<br><em>연말 파티</em>의 꽃 🎁",
+  "caption": "D-67 · 생일 선물 사러 왔다가 연말 선물까지 🎁\n장바구니에 나한테 주는 선물도 하나쯤은 괜찮잖아요.\n올해 선물 주고 싶은 친구 태그 👇",
+  "tags": "#D67 #선물고민"
+}
