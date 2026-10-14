@@ -1,0 +1,40 @@
+{
+  "dday": 57,
+  "date": "10.29",
+  "weekday": "목",
+  "cover": "<em>핼러윈 분장</em><br>연습하다가 거울 보고<br><em>현타</em> 왔다.",
+  "cover_note": "이게 맞나… 🧛",
+  "scene_title": "분장 전/후",
+  "scene_note": "본 게임엔<br>나아지겠지 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🙂",
+        "bg": "#d6f5b0",
+        "caption": "분장 전"
+      },
+      {
+        "emoji": "🧛",
+        "bg": "#ffd6e5",
+        "caption": "분장 후 (?)"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Christmas (Baby Please Come Home)",
+    "artist": "Darlene Love",
+    "year": 1963,
+    "reason": "현타 온 밤엔<br><em>목청껏 캐럴</em> 한 곡이 약."
+  },
+  "mission": {
+    "todo": [
+      "분장 전/후 사진 남겨 두기",
+      "친구한테 보내고 솔직한 평 듣기"
+    ],
+    "cta": "분장 연습 같이 할 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "완성된 분장은<br><em>파티룸</em>에서 제대로 뽐내요 🧛",
+  "caption": "D-57 · 핼러윈 분장 연습하다 현타 🧛\n그래도 전/후 사진은 꼭 남겨 두기. 나중엔 다 추억이에요.\n분장 같이 할 친구 태그 👇",
+  "tags": "#D57 #핼러윈분장"
+}

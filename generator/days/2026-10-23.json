@@ -1,0 +1,55 @@
+{
+  "dday": 63,
+  "date": "10.23",
+  "weekday": "금",
+  "cover": "핼러윈 코스튬 <em>직구</em>했는데<br>배송 예정일이<br><em>11월</em>이란다.",
+  "cover_note": "핼러윈 끝나고 오는 코스튬 🎃",
+  "scene_title": "배송 예정 11월",
+  "scene_note": "핼러윈 지나고<br>도착 예정 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "cart",
+    "title": "장바구니 (5)",
+    "items": [
+      {
+        "text": "마녀 망토 (해외직구)",
+        "right": "11/12 도착 😱",
+        "highlight": true
+      },
+      {
+        "text": "호박 머리띠 🎃",
+        "right": "11/10 도착"
+      },
+      {
+        "text": "검정 가디건 (망토 대신)",
+        "right": "내일 도착",
+        "checked": true
+      },
+      {
+        "text": "마녀 모자 (국내배송)",
+        "right": "모레 도착",
+        "checked": true
+      },
+      {
+        "text": "빗자루 소품 🧹",
+        "right": "고민 중…"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Santa Claus Is Comin' to Town",
+    "artist": "스탠더드 캐럴",
+    "year": 1934,
+    "reason": "택배는 늦어도<br><em>산타는 제때 온다</em>는 노래."
+  },
+  "mission": {
+    "todo": [
+      "'내일 도착'만 골라서 다시 담기",
+      "직구 코스튬은 내년 핼러윈용으로"
+    ],
+    "cta": "직구 배송 기다리는 친구,<br><em>태그하고 같이 기다려요</em> 👇"
+  },
+  "merryhood_line": "코스튬은 늦어도<br><em>파티</em>는 제때 시작해요 🎃",
+  "caption": "D-63 · 코스튬 직구했는데 배송이 11월 📦\n핼러윈 끝나고 도착하는 코스튬… 주말 전에 받을 수 있는 걸로 다시 골라요.\n직구 기다리는 친구 태그 👇",
+  "tags": "#D63 #해외직구"
+}

@@ -60,7 +60,7 @@ def bgm(c):
         <circle cx="50" cy="50" r="17" fill="#ff8cc6"/><circle cx="50" cy="50" r="4" fill="#f1eee6"/></svg>
       <div>
         <div style="font-family:var(--heavy);font-size:70px;line-height:1.15;word-break:keep-all">{t(b['title'])}</div>
-        <div style="margin-top:18px;font-size:38px;color:#4a545c">{t(b['artist'])} · {t(str(b['year']))}</div>
+        <div style="margin-top:18px;font-size:38px;color:#4a545c">{t(b['artist'])}{(' · ' + t(str(b['year']))) if b.get('year') else ''}</div>
       </div>
     </div>
     {tape("선곡 이유", "lime", 100, 860, -2, ko=True, seed=33, size=38)}

@@ -1,0 +1,62 @@
+{
+  "dday": 58,
+  "date": "10.28",
+  "weekday": "수",
+  "cover": "팀장님이 <em>송년회 장소</em><br>알아보라고 하셨다.<br><em>왜 나야?</em>",
+  "cover_note": "막내도 아닌데요 🥲",
+  "scene_title": "송년회 담당 당첨",
+  "scene_note": "칭찬인지<br>일 폭탄인지 ✍️",
+  "scene": {
+    "type": "chat",
+    "style": "work",
+    "room": "기획팀 (7)",
+    "messages": [
+      {
+        "divider": "10월 28일 수요일"
+      },
+      {
+        "who": "팀장님",
+        "text": "송년회 장소 좀 알아봐 줄래요?",
+        "time": "오전 10:05"
+      },
+      {
+        "me": true,
+        "text": "넵…! 저요?",
+        "time": "오전 10:07",
+        "unread": 6
+      },
+      {
+        "who": "팀장님",
+        "text": "응 감각 있잖아 ㅎㅎ",
+        "time": "오전 10:08"
+      },
+      {
+        "who": "박 대리",
+        "text": "오 기대할게요 👍",
+        "time": "오전 10:09"
+      },
+      {
+        "me": true,
+        "text": "후보 3곳 정리해 드릴게요",
+        "time": "오전 10:12",
+        "unread": 6
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Wonderful Christmastime",
+    "artist": "Paul McCartney",
+    "year": 1979,
+    "reason": "떠밀려 맡았어도<br><em>근사한 송년회</em> 만들어 보자."
+  },
+  "mission": {
+    "todo": [
+      "장소 후보 3곳 비교표 만들기",
+      "인원·예산·날짜부터 확인하기"
+    ],
+    "cta": "송년회 담당 된 동료,<br><em>태그해서 응원</em> 👇"
+  },
+  "merryhood_line": "비교표 1번 후보는<br><em>홍대 메리후드</em>, 예약은 DM 📋",
+  "caption": "D-58 · 송년회 장소, 왜 나야? 💼\n갑자기 송년회 담당 됐다면 후보 3곳 비교표부터 시작해요.\n송년회 담당 된 동료 태그 👇",
+  "tags": "#D58 #송년회"
+}

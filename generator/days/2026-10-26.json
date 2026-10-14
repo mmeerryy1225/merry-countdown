@@ -1,0 +1,39 @@
+{
+  "dday": 60,
+  "date": "10.26",
+  "weekday": "월",
+  "cover": "크리스마스 <em>두 달</em> 전.<br>내 캘린더 속<br>연말 약속은 <em>0개.</em>",
+  "cover_note": "12월이 텅텅 🫥",
+  "scene_title": "텅 빈 12월",
+  "scene_note": "약속 칸이<br>너무 넓다 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [
+      25
+    ],
+    "cross": [],
+    "fill": [],
+    "labels": {
+      "25": "크리스마스🎄",
+      "31": "올해 끝"
+    }
+  },
+  "bgm": {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "year": 1984,
+    "reason": "작년처럼 보내기 싫다면<br><em>올해는 미리</em> 약속 잡기."
+  },
+  "mission": {
+    "todo": [
+      "12월 주말 중 하루 골라 약속 넣기",
+      "같이 보낼 친구한테 먼저 연락하기"
+    ],
+    "cta": "12월 약속 아직 없는 친구,<br><em>여기서 먼저 잡아요</em> 👇"
+  },
+  "merryhood_line": "12월 주말은 금방 차요,<br><em>메리후드</em> 예약은 DM으로 🎄",
+  "caption": "D-60 · 크리스마스 두 달 전, 연말 약속 0개 🗓\n12월 주말 하나만 미리 찜해 두세요. 두 달 금방 가요.\n12월에 볼 친구 태그 👇",
+  "tags": "#D60 #연말약속"
+}
