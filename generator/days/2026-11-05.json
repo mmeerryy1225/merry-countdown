@@ -1,0 +1,54 @@
+{
+  "dday": 50,
+  "date": "11.05",
+  "weekday": "목",
+  "cover": "<em>D-50.</em><br>올해 목표 달성률을<br>확인해 봤다.",
+  "cover_note": "음… 😶",
+  "scene_title": "올해 목표 점검",
+  "scene_note": "하나는 아직<br>할 수 있다 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "memo",
+    "title": "2026 올해 목표",
+    "items": [
+      {
+        "text": "책 12권 읽기",
+        "right": "3권",
+        "strike": true
+      },
+      {
+        "text": "매일 아침 일찍 일어나기",
+        "strike": true
+      },
+      {
+        "text": "여행 한 번 가기",
+        "right": "완료!"
+      },
+      {
+        "text": "외국어 공부",
+        "right": "2주 함",
+        "dim": true
+      },
+      {
+        "text": "보고 싶은 사람 다 만나기",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Step Into Christmas",
+    "artist": "Elton John",
+    "year": 1973,
+    "reason": "남은 50일,<br><em>가볍게 한 걸음씩.</em>"
+  },
+  "mission": {
+    "todo": [
+      "아직 늦지 않은 목표 하나 골라 보기",
+      "50일 동안 할 만큼만 쪼개기"
+    ],
+    "cta": "올해 목표 같이 점검할 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "남은 50일,<br><em>즐거운 연말</em>로 채워요 ✨",
+  "caption": "D-50 · 올해 목표 달성률 확인 😶\n다 못 해도 괜찮아요. 아직 늦지 않은 목표 하나만 골라 봐요.\n목표 같이 점검할 친구 태그 👇",
+  "tags": "#D50 #올해목표"
+}

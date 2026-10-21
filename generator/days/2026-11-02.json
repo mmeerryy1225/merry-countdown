@@ -1,0 +1,47 @@
+{
+  "dday": 53,
+  "date": "11.02",
+  "weekday": "월",
+  "cover": "올해 남은 주말을<br>세어 봤다.<br><em>고작 8번.</em>",
+  "cover_note": "생각보다 적다 😳",
+  "scene_title": "남은 주말 8번",
+  "scene_note": "12월까지 합쳐도<br>8번뿐이라니 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 11,
+    "circle": [
+      7,
+      14,
+      21,
+      28
+    ],
+    "cross": [
+      1
+    ],
+    "fill": [
+      2
+    ],
+    "labels": {
+      "2": "오늘",
+      "7": "1번",
+      "28": "4번"
+    }
+  },
+  "bgm": {
+    "title": "One More Sleep",
+    "artist": "Leona Lewis",
+    "year": 2013,
+    "reason": "하루하루 세다 보면<br><em>금방 크리스마스.</em>"
+  },
+  "mission": {
+    "todo": [
+      "남은 주말에 보고 싶은 사람 이름 적기",
+      "그중 한 명한테 먼저 연락하기"
+    ],
+    "cta": "남은 주말 같이 보낼 친구,<br><em>여기서 찜해요</em> 👇"
+  },
+  "merryhood_line": "남은 주말 8번 중 하루,<br><em>메리후드</em> 예약은 DM으로 🗓",
+  "caption": "D-53 · 올해 남은 주말, 고작 8번 🗓\n보고 싶은 사람 이름부터 적어 봐요. 생각보다 금방 차요.\n남은 주말에 볼 친구 태그 👇",
+  "tags": "#D53 #남은주말"
+}

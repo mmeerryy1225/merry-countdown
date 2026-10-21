@@ -1,0 +1,49 @@
+{
+  "dday": 54,
+  "date": "11.01",
+  "weekday": "일",
+  "cover": "<em>11월 1일.</em><br>드디어 캐럴을<br><em>당당하게</em> 틀어도 되는 날.",
+  "cover_note": "오늘부터 캐럴 합법 🎶",
+  "scene_title": "캐럴 시즌 개막",
+  "scene_note": "오늘 하루 종일<br>반복 재생 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "playlist",
+    "title": "2026 캐럴 시즌",
+    "sub": "11월 1일부터 재생 중",
+    "items": [
+      {
+        "text": "All I Want for Christmas Is You",
+        "highlight": true
+      },
+      {
+        "text": "Jingle Bells"
+      },
+      {
+        "text": "Sleigh Ride"
+      },
+      {
+        "text": "Last Christmas"
+      },
+      {
+        "text": "Winter Wonderland"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "year": 1994,
+    "reason": "11월 1일 <em>공식 개막곡</em>은<br>역시 이 곡."
+  },
+  "mission": {
+    "todo": [
+      "오늘 첫 캐럴 듣고 스토리에 올리기",
+      "올해 캐럴 플레이리스트 만들기"
+    ],
+    "cta": "오늘 캐럴 같이 들을 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "캐럴 크게 틀고 놀 곳,<br><em>여기</em> 있어요 🎶",
+  "caption": "D-54 · 11월 1일, 캐럴 시즌 개막 🎶\n이제 당당하게 틀어도 돼요. 오늘 첫 캐럴은 뭐 들었어요?\n캐럴 같이 들을 친구 태그 👇",
+  "tags": "#D54 #캐럴시즌"
+}

@@ -1,0 +1,53 @@
+{
+  "dday": 52,
+  "date": "11.03",
+  "weekday": "화",
+  "cover": "<em>'연말에 보자'</em> 단톡방 3개.<br>날짜 잡힌 방은<br><em>0개.</em>",
+  "cover_note": "말만 무성한 연말 🙃",
+  "scene_title": "보자고만 한다",
+  "scene_note": "오늘은 내가<br>투표 올린다 ✍️",
+  "scene": {
+    "type": "chat",
+    "room": "대학 동기 모임 (7)",
+    "messages": [
+      {
+        "divider": "9월 2일 수요일"
+      },
+      {
+        "who": "민지",
+        "text": "연말에 꼭 보자!!",
+        "time": "오후 10:40"
+      },
+      {
+        "who": "현우",
+        "text": "ㅇㅇ 무조건",
+        "time": "오후 10:41"
+      },
+      {
+        "divider": "11월 3일 화요일"
+      },
+      {
+        "me": true,
+        "text": "그 연말이 왔다 🗳 날짜 투표 고고",
+        "time": "오후 7:20",
+        "unread": 6
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "year": 1985,
+    "reason": "<em>다 같이</em> 모이자고<br>외치는 노래."
+  },
+  "mission": {
+    "todo": [
+      "제일 오래된 단톡방에 날짜 투표 올리기",
+      "투표 마감일까지 정하기"
+    ],
+    "cta": "'연말에 보자'만 한 친구,<br><em>태그로 소환</em> 👇"
+  },
+  "merryhood_line": "날짜 잡혔으면 장소는<br><em>홍대 파티룸 메리후드</em>로 🎉",
+  "caption": "D-52 · '연말에 보자' 방 3개, 날짜 잡힌 방 0개 🙃\n제일 오래된 단톡방에 오늘 날짜 투표 하나 올려 봐요.\n그 단톡방 친구 태그 👇",
+  "tags": "#D52 #연말약속"
+}
