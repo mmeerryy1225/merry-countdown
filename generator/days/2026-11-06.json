@@ -1,0 +1,53 @@
+{
+  "dday": 49,
+  "date": "11.06",
+  "weekday": "금",
+  "cover": "금요일 저녁,<br><em>연말 모임 장소</em>만<br>2시간째 검색 중.",
+  "cover_note": "눈이 빠질 것 같다 👀",
+  "scene_title": "2시간째 검색",
+  "scene_note": "결국 처음 본 곳이<br>제일 좋았다 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "search",
+    "title": "최근 검색어",
+    "items": [
+      {
+        "text": "연말 모임 장소 추천",
+        "right": "오후 7:10"
+      },
+      {
+        "text": "10명 모일 수 있는 곳",
+        "right": "오후 7:42"
+      },
+      {
+        "text": "홍대 파티룸 후기",
+        "right": "오후 8:15"
+      },
+      {
+        "text": "파티룸 12월 예약 마감",
+        "right": "오후 8:51"
+      },
+      {
+        "text": "그냥 처음 본 데로 할까",
+        "right": "오후 9:08",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Mistletoe",
+    "artist": "Justin Bieber",
+    "year": 2011,
+    "reason": "검색창 닫고<br><em>설레는 연말</em>만 생각하기."
+  },
+  "mission": {
+    "todo": [
+      "장소 후보를 3개로 줄이기",
+      "단톡방에 후보 3개 올리기"
+    ],
+    "cta": "장소 검색 같이 할 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "2시간 검색 끝,<br>후보 1번은 <em>메리후드</em>로 📍",
+  "caption": "D-49 · 연말 모임 장소 2시간째 검색 중 🔍\n후보는 딱 3개로 줄이고, 나머지는 단톡방에 맡겨요.\n장소 고민 같이 할 친구 태그 👇",
+  "tags": "#D49 #연말모임"
+}

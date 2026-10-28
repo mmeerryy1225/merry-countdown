@@ -1,0 +1,55 @@
+{
+  "dday": 44,
+  "date": "11.11",
+  "weekday": "수",
+  "cover": "빼빼로데이.<br>받은 건 <em>0개,</em><br>준 건 5개.",
+  "cover_note": "이게 맞나… 🥲",
+  "scene_title": "받은 건 0개",
+  "scene_note": "내가 나한테<br>사 주기로 했다 ✍️",
+  "scene": {
+    "type": "chat",
+    "room": "찐친 5인방 (5)",
+    "messages": [
+      {
+        "divider": "11월 11일 수요일"
+      },
+      {
+        "who": "서연",
+        "text": "빼빼로 고마워 🥹",
+        "time": "오후 12:30"
+      },
+      {
+        "who": "준호",
+        "text": "나도 잘 먹을게!!",
+        "time": "오후 12:41"
+      },
+      {
+        "who": "다은",
+        "text": "근데 넌 몇 개 받았어?",
+        "time": "오후 12:45"
+      },
+      {
+        "me": true,
+        "text": "…0개 ㅎㅎ",
+        "time": "오후 12:50",
+        "unread": 4
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Christmas (Baby Please Come Home)",
+    "artist": "Darlene Love",
+    "year": 1963,
+    "reason": "0개여도 괜찮아,<br><em>크리스마스</em>가 오고 있으니까."
+  },
+  "mission": {
+    "todo": [
+      "나한테도 하나 사 주기",
+      "준 친구들한테 맛있었는지 물어보기"
+    ],
+    "cta": "빼빼로 0개 동지,<br><em>여기 모여요</em> 👇"
+  },
+  "merryhood_line": "주는 기쁨 아는 우리,<br><em>연말 파티</em>도 같이해요 💌",
+  "caption": "D-44 · 빼빼로데이, 받은 건 0개 🍫\n준 사람이 진짜 승자예요. 오늘은 나한테도 하나 사 주기!\n빼빼로 0개 동지 태그 👇",
+  "tags": "#D44 #빼빼로데이"
+}

@@ -1,0 +1,61 @@
+{
+  "dday": 43,
+  "date": "11.12",
+  "weekday": "목",
+  "cover": "시크릿 산타 선물 예산,<br><em>1만 원 vs 3만 원</em><br>논쟁 발발.",
+  "cover_note": "단톡방 분위기 심각 😤",
+  "scene_title": "예산 다수결",
+  "scene_note": "결국 2만 원으로<br>합의했다 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "vote",
+    "title": "시크릿 산타 예산",
+    "sub": "6명 참여 · 오늘 밤 마감",
+    "items": [
+      {
+        "text": "1만 원 (부담 없이)",
+        "right": "2표",
+        "bar": 33
+      },
+      {
+        "text": "2만 원 (딱 중간)",
+        "right": "3표",
+        "bar": 50,
+        "highlight": true
+      },
+      {
+        "text": "3만 원 (제대로)",
+        "right": "1표",
+        "bar": 17
+      },
+      {
+        "text": "금액 상관없음",
+        "right": "0표",
+        "bar": 0,
+        "dim": true
+      },
+      {
+        "text": "손편지면 충분",
+        "right": "0표",
+        "bar": 0,
+        "dim": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson",
+    "year": 2013,
+    "reason": "선물 가격보다<br><em>트리 아래 모이는 게</em> 중요."
+  },
+  "mission": {
+    "todo": [
+      "예산 투표 올리고 다수결로 끝내기",
+      "정해진 예산으로 선물 후보 3개 찾기"
+    ],
+    "cta": "예산 논쟁 중인 친구,<br><em>태그해서 투표 독려</em> 👇"
+  },
+  "merryhood_line": "선물 교환할 장소는<br><em>여기서</em> 정해요 🎁",
+  "caption": "D-43 · 시크릿 산타 예산 논쟁 💸\n길어지면 투표로 끝내요. 다수결이 평화를 지킵니다.\n예산 논쟁 중인 친구 태그 👇",
+  "tags": "#D43 #시크릿산타"
+}
