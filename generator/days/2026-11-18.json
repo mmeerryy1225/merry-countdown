@@ -1,0 +1,57 @@
+{
+  "dday": 37,
+  "date": "11.18",
+  "weekday": "수",
+  "cover": "수능 시즌.<br>수험생 동생한테<br><em>뭐 사 주지?</em>",
+  "cover_note": "누나 마음 언니 마음 📚",
+  "scene_title": "응원 장바구니",
+  "scene_note": "제일 중요한 건<br>응원 한마디 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "cart",
+    "title": "장바구니 (5)",
+    "items": [
+      {
+        "text": "찹쌀떡 세트 🍡",
+        "right": "15,900원",
+        "checked": true
+      },
+      {
+        "text": "핫팩 20개입",
+        "right": "9,900원",
+        "checked": true
+      },
+      {
+        "text": "무릎 담요",
+        "right": "12,900원",
+        "checked": true
+      },
+      {
+        "text": "초콜릿 한 상자 🍫",
+        "right": "8,900원",
+        "checked": true
+      },
+      {
+        "text": "응원 손편지 ✉️",
+        "right": "마음만큼",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "It's the Most Wonderful Time of the Year",
+    "artist": "Andy Williams",
+    "year": 1963,
+    "reason": "시험 끝나면<br><em>제일 멋진 계절</em>이 기다린다."
+  },
+  "mission": {
+    "todo": [
+      "응원 메시지 하나 보내기",
+      "시험 끝나는 날 맛있는 거 약속하기"
+    ],
+    "cta": "응원이 필요한 수험생 친구,<br><em>여기 태그</em> 📚"
+  },
+  "merryhood_line": "시험 끝난 날엔<br><em>신나는 연말</em>이 기다려요 ✨",
+  "caption": "D-37 · 수능 시즌, 수험생 응원하기 📚\n선물도 좋지만 제일 힘이 되는 건 응원 한마디예요.\n응원하고 싶은 수험생 태그 👇",
+  "tags": "#D37 #수능응원"
+}

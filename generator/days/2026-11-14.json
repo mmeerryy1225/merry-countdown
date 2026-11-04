@@ -1,0 +1,40 @@
+{
+  "dday": 41,
+  "date": "11.14",
+  "weekday": "토",
+  "cover": "올해 <em>첫 붕어빵</em> 발견.<br>팥 vs 슈크림,<br>당신의 선택은?",
+  "cover_note": "고민하다 둘 다 삼 🐟",
+  "scene_title": "올해 첫 붕어빵",
+  "scene_note": "결국 반반으로<br>샀다 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🐟",
+        "bg": "#ffd6e5",
+        "caption": "팥 붕어빵 3마리"
+      },
+      {
+        "emoji": "🍮",
+        "bg": "#d6f5b0",
+        "caption": "슈크림 붕어빵 3마리"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Cozy Little Christmas",
+    "artist": "Katy Perry",
+    "year": 2018,
+    "reason": "따끈한 붕어빵처럼<br><em>포근한</em> 겨울 주말."
+  },
+  "mission": {
+    "todo": [
+      "붕어빵 파는 곳 친구한테 공유하기",
+      "팥 vs 슈크림 투표 올리기"
+    ],
+    "cta": "붕어빵 같이 사 먹을 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "따끈한 간식 들고<br><em>포근한 연말</em> 보내요 ☕",
+  "caption": "D-41 · 올해 첫 붕어빵 발견 🐟\n팥이냐 슈크림이냐, 댓글로 투표해 주세요!\n붕어빵 같이 먹을 친구 태그 👇",
+  "tags": "#D41 #붕어빵"
+}

@@ -1,0 +1,40 @@
+{
+  "dday": 36,
+  "date": "11.19",
+  "weekday": "목",
+  "cover": "퇴근길,<br>거리에 <em>트리 불빛</em>이<br>처음 켜졌다.",
+  "cover_note": "갑자기 연말 실감 ✨",
+  "scene_title": "첫 트리 점등",
+  "scene_note": "퇴근길이<br>조금 덜 피곤했다 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🎄",
+        "bg": "#ffd6e5",
+        "caption": "퇴근길 첫 트리 불빛"
+      },
+      {
+        "emoji": "✨",
+        "bg": "#d6f5b0",
+        "caption": "반짝이는 거리"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "year": 2010,
+    "reason": "퇴근길에 켜진 불빛,<br><em>연말이 시작됐다</em>는 신호."
+  },
+  "mission": {
+    "todo": [
+      "트리 불빛 찍어서 스토리 올리기",
+      "보고 싶은 친구한테 사진 보내기"
+    ],
+    "cta": "트리 보러 같이 갈 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "반짝이는 연말,<br><em>우리만의 파티</em>로 마무리해요 🎄",
+  "caption": "D-36 · 퇴근길, 첫 트리 불빛 🎄\n거리에 불빛 켜지는 순간 연말이 실감 나요. 찍은 사진 스토리에 올려 주세요!\n트리 보러 갈 친구 태그 👇",
+  "tags": "#D36 #크리스마스트리"
+}
