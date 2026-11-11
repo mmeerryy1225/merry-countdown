@@ -1,0 +1,48 @@
+{
+  "dday": 34,
+  "date": "11.21",
+  "weekday": "토",
+  "cover": "파티룸 예약하려고 봤더니<br><em>12월 주말</em>이<br>거의 마감이다.",
+  "cover_note": "다들 언제 예약한 거야 😱",
+  "scene_title": "주말은 이미",
+  "scene_note": "남은 날 하나<br>바로 찜했다 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [
+      26
+    ],
+    "cross": [
+      5,
+      6,
+      12,
+      13,
+      19,
+      20
+    ],
+    "fill": [],
+    "labels": {
+      "5": "마감",
+      "12": "마감",
+      "19": "마감",
+      "26": "남은 자리!"
+    }
+  },
+  "bgm": {
+    "title": "It's Beginning to Look a Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "year": 2011,
+    "reason": "예약 화면부터<br><em>크리스마스 느낌</em> 물씬."
+  },
+  "mission": {
+    "todo": [
+      "원하는 날짜 오늘 바로 문의하기",
+      "안 되면 평일 저녁도 후보에 넣기"
+    ],
+    "cta": "예약 담당 맡은 친구,<br><em>여기 태그해서 재촉</em> 👇"
+  },
+  "merryhood_line": "12월 날짜 남았는지<br><em>메리후드 DM</em>으로 바로 물어보세요 📅",
+  "caption": "D-34 · 12월 주말, 벌써 마감 행진 😱\n파티룸 예약은 지금이 마지막 타이밍. 원하는 날짜 있으면 오늘 바로 문의해요.\n예약 담당 친구 태그 👇",
+  "tags": "#D34 #파티룸예약"
+}

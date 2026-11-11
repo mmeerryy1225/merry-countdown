@@ -1,0 +1,41 @@
+{
+  "dday": 30,
+  "date": "11.25",
+  "weekday": "수",
+  "cover": "<em>D-30!</em><br>한 달 남은 크리스마스.<br>내 계획은 아직 0.",
+  "cover_note": "한 줄이라도 써 보자 ✏️",
+  "scene_title": "텅 빈 12월",
+  "scene_note": "25일에 하트 하나<br>그려 놓고 시작 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [
+      25
+    ],
+    "cross": [],
+    "fill": [
+      24
+    ],
+    "labels": {
+      "24": "이브",
+      "25": "크리스마스🎄"
+    }
+  },
+  "bgm": {
+    "title": "One More Sleep",
+    "artist": "Leona Lewis",
+    "year": 2013,
+    "reason": "한 밤씩 세다 보면<br><em>금방 크리스마스.</em>"
+  },
+  "mission": {
+    "todo": [
+      "크리스마스 계획 딱 한 줄로 정하기",
+      "같이 보낼 사람한테 오늘 연락하기"
+    ],
+    "cta": "계획 0인 친구,<br><em>여기 태그해서 같이 짜기</em> 👇"
+  },
+  "merryhood_line": "계획 한 줄 정했으면,<br>장소는 <em>메리후드</em>에 예약 DM 🎄",
+  "caption": "D-30 · 크리스마스까지 딱 한 달 🎄\n계획이 아직 0이어도 괜찮아요. 오늘 딱 한 줄만 정해 봐요.\n같이 계획 짤 친구 태그 👇",
+  "tags": "#D30 #한달전"
+}
