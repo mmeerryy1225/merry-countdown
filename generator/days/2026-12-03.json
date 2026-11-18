@@ -1,0 +1,59 @@
+{
+  "dday": 22,
+  "date": "12.03",
+  "weekday": "목",
+  "cover": "<em>'연말에 한번 보자'</em><br>올라온 지 3일째.<br>아무도 날짜를 안 잡는다.",
+  "cover_note": "이러다 내년 됨 😇",
+  "scene_title": "날짜는 누가?",
+  "scene_note": "결국 내가<br>투표 올렸다 ✍️",
+  "scene": {
+    "type": "chat",
+    "room": "대학 동기들 (6)",
+    "messages": [
+      {
+        "divider": "11월 30일 월요일"
+      },
+      {
+        "who": "서연",
+        "text": "연말에 한번 보자~",
+        "time": "오후 9:20"
+      },
+      {
+        "who": "지호",
+        "text": "ㅇㅇ 보자 보자",
+        "time": "오후 9:24"
+      },
+      {
+        "divider": "12월 3일 목요일"
+      },
+      {
+        "me": true,
+        "text": "📊 날짜 투표 올렸어! 오늘까지!",
+        "time": "오후 7:30",
+        "unread": 5
+      },
+      {
+        "me": true,
+        "text": "@민규 @유나 너네도 투표해",
+        "time": "오후 7:31",
+        "unread": 5
+      }
+    ]
+  },
+  "bgm": {
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "year": 1994,
+    "reason": "올해 크리스마스엔<br><em>다 같이 모이는 것</em>만 있으면 돼."
+  },
+  "mission": {
+    "todo": [
+      "단톡방에 날짜 투표 올리기",
+      "답 없는 친구 태그하기"
+    ],
+    "cta": "'연말에 보자'만 하고 조용한 친구,<br><em>여기 태그로 소환</em> 👇"
+  },
+  "merryhood_line": "날짜 잡혔으면 장소는<br><em>메리후드</em>, 예약은 DM 🎄",
+  "caption": "D-22 · '연말에 한번 보자' 3일째 😇\n날짜는 아무도 안 잡는다면? 오늘 투표 올리는 사람이 총대예요.\n답 없는 친구 태그 👇",
+  "tags": "#D22 #연말모임"
+}

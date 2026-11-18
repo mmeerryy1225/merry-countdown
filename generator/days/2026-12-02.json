@@ -1,0 +1,40 @@
+{
+  "dday": 23,
+  "date": "12.02",
+  "weekday": "수",
+  "cover": "트리 설치 인증 vs<br><em>아직 박스에 있는</em> 트리.",
+  "cover_note": "여러분은 어느 쪽? 🤔",
+  "scene_title": "트리 인증 대결",
+  "scene_note": "박스 쪽이 나라는 건<br>비밀 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "🎄",
+        "bg": "#d6f5b0",
+        "caption": "친구네 (완벽)"
+      },
+      {
+        "emoji": "📦",
+        "bg": "#ffd6e5",
+        "caption": "우리 집 (박스째)"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Christmas Tree Farm",
+    "artist": "Taylor Swift",
+    "year": 2019,
+    "reason": "트리 농장 같은 집,<br><em>올해는 우리 집도.</em>"
+  },
+  "mission": {
+    "todo": [
+      "트리 사진 올리고 친구 태그하기",
+      "박스파라면 오늘 저녁 꺼내기"
+    ],
+    "cta": "트리 인증 기다리는 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "트리 꾸밀 시간 없다면,<br>이미 꾸며진 <em>파티룸</em>으로 🎄",
+  "caption": "D-23 · 트리 인증 vs 아직 박스 📦\n벌써 트리 완성한 사람, 아직 박스째인 사람 다 모여요.\n트리 사진 올리고 친구 태그 👇",
+  "tags": "#D23 #트리인증"
+}

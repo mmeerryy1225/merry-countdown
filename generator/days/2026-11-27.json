@@ -1,0 +1,57 @@
+{
+  "dday": 28,
+  "date": "11.27",
+  "weekday": "금",
+  "cover": "블랙프라이데이.<br>선물 사려다 결국<br><em>내 것만</em> 샀다.",
+  "cover_note": "선물은… 다음 세일에 🙈",
+  "scene_title": "선물은 어디에",
+  "scene_note": "선물 하나는<br>꼭 결제하기로 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "cart",
+    "title": "장바구니 (5)",
+    "items": [
+      {
+        "text": "내 겨울 코트 🧥",
+        "right": "결제 완료",
+        "checked": true
+      },
+      {
+        "text": "내 털 부츠 👢",
+        "right": "결제 완료",
+        "checked": true
+      },
+      {
+        "text": "내 니트 목도리 🧣",
+        "right": "결제 완료",
+        "checked": true
+      },
+      {
+        "text": "내 핸드크림 세트",
+        "right": "결제 완료",
+        "checked": true
+      },
+      {
+        "text": "엄마 선물 🎁",
+        "right": "아직 담기만…",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "8 Days of Christmas",
+    "artist": "Destiny's Child",
+    "year": 2001,
+    "reason": "선물 받는 상상은 신나는데,<br><em>주는 쪽</em>도 해 봐야지."
+  },
+  "mission": {
+    "todo": [
+      "장바구니 속 선물 하나는 꼭 결제하기",
+      "받을 사람 이름 옆에 적어 두기"
+    ],
+    "cta": "블프에 자기 것만 산 친구,<br><em>자수하세요</em> 👇"
+  },
+  "merryhood_line": "산 선물은 아껴 뒀다가<br><em>연말 파티</em>에서 짠 🎁",
+  "caption": "D-28 · 블랙프라이데이, 결국 내 것만 🛍\n선물 사려고 들어갔다가 내 장바구니만 꽉 찼다면… 오늘 선물 하나는 꼭 결제해요.\n같이 자수할 친구 태그 👇",
+  "tags": "#D28 #블랙프라이데이"
+}

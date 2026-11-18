@@ -1,0 +1,40 @@
+{
+  "dday": 26,
+  "date": "11.29",
+  "weekday": "일",
+  "cover": "11월 마지막 주말.<br><em>트리를 꺼낼까</em><br>말까.",
+  "cover_note": "박스 앞에서 고민 30분 🎄",
+  "scene_title": "꺼낼까 말까",
+  "scene_note": "결국 오늘<br>꺼내기로 했다 ✍️",
+  "scene": {
+    "type": "photo",
+    "photos": [
+      {
+        "emoji": "📦",
+        "bg": "#ffd6e5",
+        "caption": "베란다 속 트리 박스"
+      },
+      {
+        "emoji": "🎄",
+        "bg": "#d6f5b0",
+        "caption": "꺼내면 이렇게 될 예정"
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Deck the Halls",
+    "artist": "웨일스 전통 캐럴",
+    "year": "",
+    "reason": "'집을 꾸미자'는 노래,<br>오늘이 바로 <em>그날.</em>"
+  },
+  "mission": {
+    "todo": [
+      "오늘 트리 박스 꺼내기",
+      "전구 불 들어오는지 미리 확인하기"
+    ],
+    "cta": "아직 트리 안 꺼낸 친구,<br><em>여기 태그로 재촉</em> 👇"
+  },
+  "merryhood_line": "트리 꾸미는 재미는<br><em>다 같이</em> 모여서 두 배 🎄",
+  "caption": "D-26 · 트리, 꺼낼까 말까 🎄\n11월 마지막 주말, 박스 앞에서 고민 중이라면 오늘 꺼내는 걸로!\n아직 트리 안 꺼낸 친구 태그 👇",
+  "tags": "#D26 #트리"
+}
