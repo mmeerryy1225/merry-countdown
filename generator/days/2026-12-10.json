@@ -1,0 +1,43 @@
+{
+  "dday": 15,
+  "date": "12.10",
+  "weekday": "목",
+  "cover": "크리스마스 레스토랑<br>예약이 <em>전부 마감</em>됐다.",
+  "cover_note": "다들 언제 예약한 거야 😱",
+  "scene_title": "24·25일 마감",
+  "scene_note": "플랜 B는<br>우리끼리 파티 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [],
+    "cross": [
+      24,
+      25
+    ],
+    "fill": [
+      10
+    ],
+    "labels": {
+      "10": "오늘",
+      "24": "마감",
+      "25": "마감"
+    }
+  },
+  "bgm": {
+    "title": "It's Beginning to Look a Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "year": 2011,
+    "reason": "예약은 마감이어도<br><em>크리스마스 느낌</em>은 계속."
+  },
+  "mission": {
+    "todo": [
+      "우리끼리 파티 플랜 B 세우기",
+      "같이 보낼 사람한테 오늘 연락하기"
+    ],
+    "cta": "레스토랑 예약 실패한 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "레스토랑 마감이라면<br><em>메리후드</em> 날짜 DM으로 문의 📅",
+  "caption": "D-15 · 크리스마스 레스토랑, 전부 마감 😱\n그렇다면 플랜 B! 우리끼리 파티도 충분히 크리스마스예요.\n예약 실패한 친구 태그 👇",
+  "tags": "#D15 #크리스마스예약"
+}

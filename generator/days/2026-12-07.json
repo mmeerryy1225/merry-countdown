@@ -1,0 +1,56 @@
+{
+  "dday": 18,
+  "date": "12.07",
+  "weekday": "월",
+  "cover": "회사 송년회 <em>장기자랑</em><br>연습 중.<br>이게 맞나?",
+  "cover_note": "퇴근하고 싶다 🕺",
+  "scene_title": "장기자랑 연습",
+  "scene_note": "연습 영상은<br>나만 보기로 ✍️",
+  "scene": {
+    "type": "chat",
+    "style": "work",
+    "room": "송년회 TF (5)",
+    "messages": [
+      {
+        "divider": "12월 7일 월요일"
+      },
+      {
+        "who": "김 과장",
+        "text": "오늘 6시 회의실 연습 있습니다",
+        "time": "오후 2:10"
+      },
+      {
+        "who": "이 대리",
+        "text": "안무 영상 공유드려요 🎬",
+        "time": "오후 2:12"
+      },
+      {
+        "who": "김 과장",
+        "text": "다들 동작 외워 오세요~",
+        "time": "오후 2:15"
+      },
+      {
+        "me": true,
+        "text": "넵…! (이게 맞나…?)",
+        "time": "오후 2:20",
+        "unread": 4
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "year": 1985,
+    "reason": "어색해도 다 같이 흔들면<br><em>그게 연말</em>이죠."
+  },
+  "mission": {
+    "todo": [
+      "연습 영상은 혼자만 간직하기",
+      "끝나고 나한테 줄 보상 정하기"
+    ],
+    "cta": "장기자랑 끌려간 동료,<br><em>여기 태그해서 응원</em> 👇"
+  },
+  "merryhood_line": "진짜 즐거운 연말은<br><em>편한 사람들</em>이랑 ✨",
+  "caption": "D-18 · 송년회 장기자랑 연습 중 🕺\n이게 맞나 싶지만 일단 외우는 중… 연습 영상은 나만 보는 걸로.\n같이 끌려간 동료 태그 👇",
+  "tags": "#D18 #장기자랑"
+}

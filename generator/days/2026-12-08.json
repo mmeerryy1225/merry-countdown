@@ -1,0 +1,53 @@
+{
+  "dday": 17,
+  "date": "12.08",
+  "weekday": "화",
+  "cover": "<em>시크릿 산타</em> 선물,<br>아직 못 샀다.",
+  "cover_note": "교환은 금요일인데 😰",
+  "scene_title": "장바구니만 가득",
+  "scene_note": "오늘 안에<br>결제한다 ✍️",
+  "scene": {
+    "type": "list",
+    "style": "cart",
+    "title": "장바구니 (5)",
+    "items": [
+      {
+        "text": "향초 세트 🕯",
+        "right": "고민 중…"
+      },
+      {
+        "text": "핸드크림 3종",
+        "right": "고민 중…"
+      },
+      {
+        "text": "머그컵 ☕",
+        "right": "고민 중…"
+      },
+      {
+        "text": "수면 양말 🧦",
+        "right": "고민 중…"
+      },
+      {
+        "text": "시크릿 산타 선물 🎁",
+        "right": "오늘 결제!",
+        "highlight": true
+      }
+    ]
+  },
+  "bgm": {
+    "title": "Santa Tell Me",
+    "artist": "Ariana Grande",
+    "year": 2014,
+    "reason": "산타한테 묻고 싶다,<br><em>뭘 사야 좋아할지.</em>"
+  },
+  "mission": {
+    "todo": [
+      "오늘 안에 주문 완료하기",
+      "도착 날짜 꼭 확인하기"
+    ],
+    "cta": "시크릿 산타 같이 하는 친구,<br><em>여기 태그</em> 👇"
+  },
+  "merryhood_line": "선물 교환은<br><em>파티룸</em>에서 두 배로 🎁",
+  "caption": "D-17 · 시크릿 산타 선물, 아직 0개 🎁\n장바구니에만 5개째… 오늘 안에 결제하고 도착 날짜까지 확인해요.\n시크릿 산타 같이 하는 친구 태그 👇",
+  "tags": "#D17 #시크릿산타"
+}

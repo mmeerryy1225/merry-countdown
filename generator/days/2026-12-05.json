@@ -1,0 +1,44 @@
+{
+  "dday": 20,
+  "date": "12.05",
+  "weekday": "토",
+  "cover": "송년회 시즌 첫 주말.<br>약속이 <em>3개</em> 겹쳤다.",
+  "cover_note": "몸이 하나라서요 😵",
+  "scene_title": "오늘만 3탕",
+  "scene_note": "다 같이 한 번에<br>보면 안 될까 ✍️",
+  "scene": {
+    "type": "calendar",
+    "year": 2026,
+    "month": 12,
+    "circle": [
+      5
+    ],
+    "cross": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "fill": [],
+    "labels": {
+      "5": "약속×3😵",
+      "25": "크리스마스🎄"
+    }
+  },
+  "bgm": {
+    "title": "Feliz Navidad",
+    "artist": "José Feliciano",
+    "year": 1970,
+    "reason": "여기저기서 들리는<br><em>메리 크리스마스</em>, 오늘은 세 번."
+  },
+  "mission": {
+    "todo": [
+      "겹친 약속 하나로 합치기",
+      "합칠 수 있는 모임끼리 날짜 맞추기"
+    ],
+    "cta": "오늘 약속 겹친 친구,<br><em>여기 태그해서 합치기</em> 👇"
+  },
+  "merryhood_line": "겹친 약속 한 번에 모이기,<br><em>메리후드</em>면 다 들어가요 🎄",
+  "caption": "D-20 · 약속 3개 겹친 토요일 😵\n송년회 시즌 첫 주말, 몸은 하나인데 약속은 셋. 합칠 수 있는 건 합쳐 봐요.\n약속 겹친 친구 태그 👇",
+  "tags": "#D20 #송년회시즌"
+}
